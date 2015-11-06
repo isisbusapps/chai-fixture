@@ -1,6 +1,8 @@
 # chai-fixture
 Adds DOM fixture support for Chai
 
+**Supports:** Mocha, Jasmine, QUnit and possibly others. If your favourite test framework doesn't work please [file an issue](https://github.com/isisbusapps/chai-fixture/issues/new).
+
 ## Install
 
 ### NPM
