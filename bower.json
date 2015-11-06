@@ -1,7 +1,7 @@
 {
   "name": "chai-fixture",
   "main": "chai-fixture.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     "Marcus Noble <marcus.noble@stfc.ac.uk>"
   ],

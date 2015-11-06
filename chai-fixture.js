@@ -1,6 +1,6 @@
 (function() {
   var chaiFixture = function(chai, utils) {
-    if(document) {
+    if(typeof document !== 'undefined') {
       // Insert the fixture if it's not present
       if(!document.getElementById('chai-fixture')) {
         var fixture = document.createElement('div');
