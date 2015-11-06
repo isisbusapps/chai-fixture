@@ -1,0 +1,17 @@
+{
+  "name": "chai-fixture",
+  "main": "chai-fixture.js",
+  "version": "1.0.0",
+  "authors": [
+    "Marcus Noble <marcus.noble@stfc.ac.uk>"
+  ],
+  "license": "MIT",
+  "moduleType": ["globals", "node"],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
