@@ -21,6 +21,8 @@ bower install chai-fixture
 
 ### NodeJS
 
+*Note:* Requires `document` to exists. (I recommend using PhantomJS or similar)
+
 ```JS
 var chai = require('chai');
 var chaiFixture = require('chai-fixture');
