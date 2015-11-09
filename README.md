@@ -17,6 +17,12 @@ npm install chai-fixture
 bower install chai-fixture
 ```
 
+### CDN
+
+```html
+<script src="https://cdn.rawgit.com/isisbusapps/chai-fixture/master/chai-fixture.js"></script>
+```
+
 ## Usage
 
 ### NodeJS
